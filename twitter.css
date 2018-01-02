@@ -1,0 +1,209 @@
+.bodycolor{
+	background-color:#E6E6FA;
+	width: 100%;
+	height:800px;
+    margin: 0;
+	left: 0;
+	top: 45px;
+	position: fixed;
+	border-top: 1px solid #A9A9A9;
+	}
+	
+.headerpart{
+	width:50%;
+	position:absolute;
+	}
+
+#logo{
+	left: 350px;
+	top: 2px;
+	cursor: pointer;
+    }	
+	
+#home{
+	left: 390px;
+	color:#696969;
+	top: 5px;
+	font-family: verdana;
+	font-size: 14px;
+	cursor: pointer;
+    }	
+
+#home:hover{
+	color: #00BFFF;
+    }	
+	
+#about{
+	left: 440px;
+	color:#696969;
+	top: 5px;
+	font-family: verdana;
+	font-size: 14px;
+	cursor: pointer;
+    }	
+
+#about:hover{
+	color: #00BFFF;
+    }	
+
+
+#language{
+	left: 1095px;
+	color:#696969;
+	top: 7px;
+	font-family: verdana;
+	font-size: 10px;
+	cursor: pointer;
+    }	
+
+#english{
+	left: 1150px;
+	color:#696969;
+	top: 5px;
+	font-family: verdana;
+	font-size: 15px;
+	cursor: pointer;
+    }	
+	
+.bodypart1{
+	position: absolute;
+	left: 370px;
+	top: 55px;
+	width: 855px;
+	height:244px;
+	background-color: white;
+	border-top:1px solid #DCDCDC;
+	border-left:1px solid #DCDCDC;
+	border-right:1px solid #DCDCDC;
+	}
+
+.bodypart2{
+	position: absolute;
+	left: 370px;
+	top: 300px;
+	width: 855px;
+	height:110px;
+	background-color: #F5F5F5;
+	border-left:1px solid #DCDCDC;
+	border-right:1px solid #DCDCDC;
+	border-bottom: 1px solid #DCDCDC;
+	}	
+	
+#form{
+	position: relative;
+	top: 30px;
+	left: 100px;
+	height: 300px;
+	width: 500px;
+	border: none;
+	}
+
+#para1{
+	font-size: 20px;
+	font-family: verdana;
+	font-weight: 900;
+    }	
+	
+#box{
+    height:30px;
+	width: 350px;
+	border: 1px solid #142170;
+	border-radius: 3px;
+	background: white;
+	padding: 10px;
+	font-size: 14px;
+    outline: none;
+	border-color:#C0C0C0;
+	}		
+
+#box:hover{
+	border-color: #87CEFA;
+	}	
+	
+	
+#signup{
+	height:15px;
+	width: 65px;
+	border: 1px solid #1E90FF;
+	border-radius: 20px;
+	background: #1E90FF;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	font-size: 14px;
+	outline: none;
+    }	
+	
+#check{
+	position: absolute;
+	left: 100px;
+	top: 150px;
+	}
+
+#para2{
+	position: absolute;
+	left: 125px;
+	top: 150px;
+    font-family:verdana;
+	font-size:13px;
+    }	
+	
+#para3{
+	position: absolute;
+	left: 235px;
+	top: 150px;
+    font-family:verdana;
+	font-size:13px;
+	color: #1E90FF;
+	cursor: pointer;
+    }	
+	
+#para3:hover{
+	text-decoration: underline;
+	}	
+	
+#parabackground{
+    position: absolute;
+	left:100px;
+	top: 0;
+	font-family: verdana;
+	font-size: 13px;
+    width: 600px;
+	border: none;
+	}	
+
+#para4{
+	position: absolute;
+	top: 20px;
+	color: #778899;
+    }	
+
+#para5{
+    position: absolute;
+	top: 20px;
+	left: 110px;
+	color: #1E90FF;
+	cursor: pointer;
+	}	
+	
+#para5:hover{
+	text-decoration: underline;
+	}		
+	
+#para6{
+	position: absolute;
+	top: 55px;
+	color: #778899;
+	}	
+	
+#para7{
+	position: absolute;
+	top: 55px;
+	left: 260px;
+	color: #1E90FF;
+	cursor: pointer;
+   }
+   
+#para7:hover{
+	text-decoration: underline;
+	}	
